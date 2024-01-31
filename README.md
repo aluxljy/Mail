@@ -16,9 +16,9 @@ Steps to run the code:
 
 5. Install Django in the virtual environment using the command ```python -m pip install django```.
 
-6. Make migrations for the mail app using the command ```python manage.py makemigrations mail```.
+6. Run the command ```python manage.py makemigrations mail``` to make migrations for the mail app.
 
-7. Apply migrations to your database using the command ```python manage.py migrate```.
+7. Run the command ```python manage.py migrate``` to apply migrations to your database.
 
 8. After making and applying migrations for the project, run ```python manage.py runserver``` to start the web server.
 
