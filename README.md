@@ -5,7 +5,6 @@ Please ensure that Python is installed to run this code
 
 Steps to run the code:
 1. Download the ZIP file and open the folder in your desired IDE, preferable VS Code.
-(*If this does not work then copy and paste all the files into a folder, then open the folder created in your desired IDE)
 
 2. Run ```python manage.py makemigrations mail``` to make migrations for the mail app.
 
